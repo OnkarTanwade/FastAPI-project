@@ -1,0 +1,1 @@
+web: guniconrn -w 4 -k uvcorn.workers.UvicornWorkers Heroku_app:app
